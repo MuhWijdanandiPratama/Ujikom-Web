@@ -1,0 +1,95 @@
+.shadow-hover:hover {
+  box-shadow: 0 0.3rem 1rem rgba(0, 0, 0, 0.3) !important;
+}
+
+.logo{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+.footer{
+  background-color: #000;
+  padding-top: 50px;
+}
+
+.desc{
+  display: flex;
+  padding-left: 130px;
+}
+
+.other{
+  color: white;
+  font-family: "Arial";
+  display: flex;
+  padding-left: 470px;
+}
+
+.other p{
+  text-align: center;
+  /* justify-content: center; */
+  padding-left: 200px;
+}
+
+/* .Contact{
+  padding-left: 50px;
+}
+
+.News{
+  padding-left: 50px;
+}
+
+.Carrers{
+  padding-left: 50px;
+}
+
+.Location{
+  padding-left: 50px;
+} */
+
+.fb{
+  color: white;
+  margin-left: 30px;
+  padding-top: 10px;
+}
+
+.ig{
+  color: white;
+  margin-left: 135px;
+  padding-top: 10px;
+}
+
+.twitter{
+  color: white;
+  margin-left: 223px;
+  padding-top: 10px;
+}
+
+.youtube{
+  color: white;
+  margin-left: 295px;
+  padding-top: 10px;
+}
+
+.iconfb{
+  margin-left: 50px;
+}
+
+.iconig{
+  padding-left: 75px;
+  margin-left: 80px;
+}
+
+.icontwt{
+  padding-left: 125px;
+  margin-left: 110px;
+}
+
+.iconyt{
+  padding-left: 200px;
+  margin-left: 110px;
+}
+
+.copirek{
+  width: 24px;
+  height: 24px;
+}
